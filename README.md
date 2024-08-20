@@ -10,17 +10,16 @@ In this project, you'll learn to build a simple webpage using Bootstrap. You wil
 
 ```
 bootstrap_basics/
-├── index.html
-└── assets/
-    └── styles.css `
+│   index.html
+│   styles.css`
 ```
 # Instructions
 
-## 1\. **Create the Project Folder and Files**
+## 1. **Create the Project Folder and Files**
 
--   [ ]  Create a folder named `bootstrap_basics` to store all your project files.
--   [ ]  Inside the `bootstrap_basics` folder, create a file named `index.html`. This will be your main HTML file.
--   [ ]  Also, inside the `bootstrap_basics` folder, create another folder named `assets`. Within the `assets` folder, create a file named `styles.css`. This file will contain the CSS used to style your HTML content.
+- [ ] Create a folder named `bootstrap_basics` to store all your project files.
+- [ ] Inside the `bootstrap_basics` folder, create a file named `index.html`. This will be your main HTML file.
+- [ ] Inside the `bootstrap_basics` folder, create a file named `styles.css`. This file will contain the CSS used to style your HTML content.
 
 ## 2\. **Add HTML Boilerplate**
 
@@ -32,7 +31,7 @@ Now that you have your files set up, start by adding the basic HTML5 boilerplate
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Project Title</title>
+  <title>Bootstrap Basics</title>
   <link rel="stylesheet" href="assets/styles.css">
 </head>
 <body>
@@ -49,7 +48,7 @@ Now that you have your files set up, start by adding the basic HTML5 boilerplate
 To include Bootstrap in your project, add the following CDN link to the `<head>` of your `index.html` file:
 
 ```html
-<link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 ```
 
 Your `<head>` section should now look like this:
@@ -58,8 +57,8 @@ Your `<head>` section should now look like this:
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Project Title</title>
-  <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+  <title>Bootstrap Basics</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <link rel="stylesheet" href="assets/styles.css">
 </head>
 ```
