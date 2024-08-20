@@ -32,7 +32,7 @@ Now that you have your files set up, start by adding the basic HTML5 boilerplate
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Bootstrap Basics</title>
-  <link rel="stylesheet" href="assets/styles.css">
+  <link rel="stylesheet" href="/styles.css">
 </head>
 <body>
   <!-- Your content goes here -->
@@ -59,7 +59,7 @@ Your `<head>` section should now look like this:
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Bootstrap Basics</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="assets/styles.css">
+  <link rel="stylesheet" href="/styles.css">
 </head>
 ```
 **Explanation:**
