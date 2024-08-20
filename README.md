@@ -15,11 +15,11 @@ bootstrap_basics/
 ```
 # Instructions
 
-## 1\. **Create the Project Folder and Files**
+## 1. **Create the Project Folder and Files**
 
--   [ ]  Create a folder named `bootstrap_basics` to store all your project files.
--   [ ]  Inside the `bootstrap_basics` folder, create a file named `index.html`. This will be your main HTML file.
--   [ ]  Also, inside the `bootstrap_basics` folder, create another folder named `assets`. Within the `assets` folder, create a file named `styles.css`. This file will contain the CSS used to style your HTML content.
+- [ ] Create a folder named `bootstrap_basics` to store all your project files.
+- [ ] Inside the `bootstrap_basics` folder, create a file named `index.html`. This will be your main HTML file.
+- [ ] Inside the `bootstrap_basics` folder, create a file named `styles.css`. This file will contain the CSS used to style your HTML content.
 
 ## 2\. **Add HTML Boilerplate**
 
@@ -169,7 +169,7 @@ Below the cards, add a form using Bootstrap's form components:
 
 ## 7\. **Add Custom Styling**
 
-You can add custom styles in `assets/styles.css` to override or enhance Bootstrap's default styles. For example:
+You can add custom styles in `styles.css` to override or enhance Bootstrap's default styles. For example:
 
 ```css
 body {
