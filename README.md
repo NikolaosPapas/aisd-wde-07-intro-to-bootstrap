@@ -173,16 +173,17 @@ You can add custom styles in `styles.css` to override or enhance Bootstrap's def
 
 ```css
 body {
-  font-family: Arial, sans-serif;
-}
-
-.card {
-  margin-bottom: 20px;
-}
-
-.navbar-brand {
-  font-weight: bold;
-}
+    font-family: Arial, sans-serif;
+    background-color: lightblue ;
+  }
+  
+  .card {
+    margin-bottom: 20px;
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+  }
 ```
 **Explanation:**
 
