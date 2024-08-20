@@ -10,9 +10,8 @@ In this project, you'll learn to build a simple webpage using Bootstrap. You wil
 
 ```
 bootstrap_basics/
-├── index.html
-└── assets/
-    └── styles.css `
+│   index.html
+│   styles.css`
 ```
 # Instructions
 
