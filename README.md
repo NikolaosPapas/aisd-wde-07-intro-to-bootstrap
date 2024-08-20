@@ -169,7 +169,7 @@ Below the cards, add a form using Bootstrap's form components:
 
 ## 7\. **Add Custom Styling**
 
-You can add custom styles in `assets/styles.css` to override or enhance Bootstrap's default styles. For example:
+You can add custom styles in `styles.css` to override or enhance Bootstrap's default styles. For example:
 
 ```css
 body {
