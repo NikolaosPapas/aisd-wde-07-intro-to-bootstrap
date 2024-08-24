@@ -22,8 +22,9 @@ bootstrap_basics/
 - [ ] Inside the `bootstrap_basics` folder, create a file named `styles.css`. This file will contain the CSS used to style your HTML content.
 
 ## 2. **Add HTML Boilerplate**
+Now that you have your files set up, start by adding the basic HTML5 boilerplate.
 
-Now that you have your files set up, start by adding the basic HTML5 boilerplate as seen below to set up the foundation of your document in `index.html`.
+  - [ ] Open your currently empty `index.html` file and add the following code to it.
 
 ```html
 <!DOCTYPE html>
@@ -41,11 +42,11 @@ Now that you have your files set up, start by adding the basic HTML5 boilerplate
 ```
 **Explanation:**
 
--   Declares the document as HTML5 and sets up the essential metadata and styles.
+- Declares the document as HTML5 and sets up the essential metadata and styles.
 
 ## 3. **Add Bootstrap CDN**
 
-To include Bootstrap in your project, add the following CDN link to the `<head>` of your `index.html` file:
+- [ ] To include Bootstrap in your project, add the following CDN link to the `<head>` of your `index.html` file:
 
 ```html
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -69,7 +70,7 @@ Your `<head>` section should now look like this:
 
 ## 4. **Add a Navbar**
 
-To create a responsive navbar using Bootstrap, add the following code to your `index.html`:
+- [ ] To create a responsive navbar using Bootstrap, add the following code to your `index.html`, between the `<body> </body>` tags:
 
 ```html
 <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -114,8 +115,10 @@ To create a responsive navbar using Bootstrap, add the following code to your `i
 -   Creates a responsive navigation bar that collapses on smaller screens. [Bootstrap Navbar Documentation](https://getbootstrap.com/docs/5.3/components/navbar/)
 
 ## 5. **Add a Few Cards**
+Use Bootstrap's card component to display content. Each card should have an image, a title, some text, and a button. 
 
-Use Bootstrap's card component to display content. Each card should have an image, a title, some text, and a button. Add the following code to your `index.html`:
+- [ ] Add the following code to your `index.html`:
+
 ```html
 <div class="container my-5">
   <div class="row">
@@ -142,7 +145,8 @@ Use Bootstrap's card component to display content. Each card should have an imag
 
 ## 6. **Add a Form**
 
-Below the cards, add a form using Bootstrap's form components:
+- [ ] Below the cards, add a form using Bootstrap's form components:
+
 ```html
 <div class="container my-5">
   <h2>Contact Us</h2>
@@ -169,7 +173,7 @@ Below the cards, add a form using Bootstrap's form components:
 
 ## 7. **Add Custom Styling**
 
-You can add custom styles in `styles.css` to override or enhance Bootstrap's default styles. For example:
+- [ ] You can add custom styles in `styles.css` to override or enhance Bootstrap's default styles. For example:
 
 ```css
 body {
