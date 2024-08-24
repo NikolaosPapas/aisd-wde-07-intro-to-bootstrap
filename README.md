@@ -188,6 +188,9 @@ body {
 
 -   Adds custom styles to modify the appearance of the body, cards, and navbar.
 
+## 8. **Commit and Push to Github**
+- [ ] Commit and push your work to Github.
+
 # Conclusion 📄
 
 In this project, you learned to use Bootstrap to create a responsive and stylish webpage. By applying Bootstrap’s grid system and components like navbars, cards, and forms, you built a well-structured and visually appealing layout.
