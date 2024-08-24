@@ -2,18 +2,18 @@
 
 ![Screenshot of the finished webpage](assets//complete.png)
 
-## Description
+## Description 📄
 
 In this project, you'll learn to build a simple webpage using Bootstrap. You will find the Bootstrap documentation [here](https://getbootstrap.com/docs/5.3/getting-started/introduction), where you can explore a wide range of components and utilities. You'll add a responsive navbar, incorporate Bootstrap cards, buttons, and forms.
 
-## Expected Project Structure
+## Expected Project Structure 🏗️
 
 ```
 bootstrap_basics/
 │   index.html
 │   styles.css`
 ```
-# Instructions
+# Instructions ✅
 
 ## 1. **Create the Project Folder and Files**
 
@@ -21,7 +21,7 @@ bootstrap_basics/
 - [ ] Inside the `bootstrap_basics` folder, create a file named `index.html`. This will be your main HTML file.
 - [ ] Inside the `bootstrap_basics` folder, create a file named `styles.css`. This file will contain the CSS used to style your HTML content.
 
-## 2\. **Add HTML Boilerplate**
+## 2. **Add HTML Boilerplate**
 
 Now that you have your files set up, start by adding the basic HTML5 boilerplate as seen below to set up the foundation of your document in `index.html`.
 
@@ -43,7 +43,7 @@ Now that you have your files set up, start by adding the basic HTML5 boilerplate
 
 -   Declares the document as HTML5 and sets up the essential metadata and styles.
 
-## 3\. **Add Bootstrap CDN**
+## 3. **Add Bootstrap CDN**
 
 To include Bootstrap in your project, add the following CDN link to the `<head>` of your `index.html` file:
 
@@ -67,7 +67,7 @@ Your `<head>` section should now look like this:
 -   The Bootstrap CDN link allows you to use Bootstrap's CSS and components in your project. [Bootstrap CDN Documentation](https://getbootstrap.com/docs/5.3/getting-started/download/)
 -   It's important to note that the bootstrap versions being utilized by a CDN can change frequently. Be sure to check the documentation for the latest version being utilized.
 
-## 4\. **Add a Navbar**
+## 4. **Add a Navbar**
 
 To create a responsive navbar using Bootstrap, add the following code to your `index.html`:
 
@@ -113,7 +113,7 @@ To create a responsive navbar using Bootstrap, add the following code to your `i
 
 -   Creates a responsive navigation bar that collapses on smaller screens. [Bootstrap Navbar Documentation](https://getbootstrap.com/docs/5.3/components/navbar/)
 
-## 5\. **Add a Few Cards**
+## 5. **Add a Few Cards**
 
 Use Bootstrap's card component to display content. Each card should have an image, a title, some text, and a button. Add the following code to your `index.html`:
 ```html
@@ -140,7 +140,7 @@ Use Bootstrap's card component to display content. Each card should have an imag
 
 -   Adds Bootstrap cards with images, titles, text, and buttons. [Bootstrap Card Documentation](https://getbootstrap.com/docs/5.3/components/card/)
 
-## 6\. **Add a Form**
+## 6. **Add a Form**
 
 Below the cards, add a form using Bootstrap's form components:
 ```html
@@ -167,7 +167,7 @@ Below the cards, add a form using Bootstrap's form components:
 
 -   Adds a form with fields for name, email, and message, and a submit button. [Bootstrap documentation on forms layout](https://getbootstrap.com/docs/5.3/forms/layout/)
 
-## 7\. **Add Custom Styling**
+## 7. **Add Custom Styling**
 
 You can add custom styles in `styles.css` to override or enhance Bootstrap's default styles. For example:
 
@@ -188,11 +188,20 @@ body {
 
 -   Adds custom styles to modify the appearance of the body, cards, and navbar.
 
-# Conclusion
+# Conclusion 📄
 
 In this project, you learned to use Bootstrap to create a responsive and stylish webpage. By applying Bootstrap’s grid system and components like navbars, cards, and forms, you built a well-structured and visually appealing layout.
 
 This hands-on experience with Bootstrap’s framework will help you efficiently design and develop more advanced web pages in the future.
+
+##
+
+### Solution codebase 👀
+🛑 **Only use this as a reference** 🛑
+
+💾 **Not something to copy and paste** 💾
+
+**Note:**  This lab references a solution file located [here](https://github.com/HackerUSA-CE/aisd-wde-07-intro-to-bootstrap/tree/solution) (link not shown).
 
 ---
 © All rights reserved to ThriveDX
